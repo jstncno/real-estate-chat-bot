@@ -1,0 +1,92 @@
+[
+  {
+    "neighborhood": "Upper East Side",
+    "price": 2000000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 1500,
+    "house_description": "Beautiful 3 bedroom, 2 bathroom home in the heart of the Upper East Side. Recently renovated with modern finishes and appliances. Spacious living area and bedrooms with plenty of natural light.",
+    "neighborhood_description": "The Upper East Side is known for its upscale residential buildings, high-end shopping, and fine dining options. It is a quiet and safe neighborhood, perfect for families and professionals."
+  },
+  {
+    "neighborhood": "Upper East Side",
+    "price": 1500000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 2000,
+    "house_description": "Beautiful brownstone townhouse with original details and modern updates. Spacious living room with fireplace, large kitchen with top-of-the-line appliances, and luxurious master suite with walk-in closet and en-suite bathroom.",
+    "neighborhood_description": "The Upper East Side is known for its upscale residential buildings, designer boutiques, and world-renowned museums. Enjoy easy access to Central Park and a variety of dining and entertainment options."
+  },
+  {
+    "neighborhood": "Upper West Side",
+    "price": 1500000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "size": 2000,
+    "house_description": "This beautiful brownstone townhouse is located in the highly coveted Upper West Side. With 3 spacious bedrooms and 2.5 bathrooms, this home offers plenty of room for a growing family. The open floor plan and large windows provide an abundance of natural light and create a warm and inviting atmosphere. The home also features a modern kitchen with high-end appliances and a private backyard.",
+    "neighborhood_description": "The Upper West Side is known for its charming tree-lined streets, historic brownstones, and vibrant community. Residents can enjoy easy access to Central Park, as well as a variety of restaurants, shops, and cultural attractions. With excellent schools and a family-friendly atmosphere, this neighborhood is the perfect place to call home."
+  },
+  {
+    "neighborhood": "Greenwich Village",
+    "price": 1500000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 1200,
+    "house_description": "This charming brownstone apartment features two spacious bedrooms, two full bathrooms, and a cozy living room with a fireplace. The kitchen is updated with stainless steel appliances and granite countertops. The apartment also has a private outdoor space perfect for entertaining.",
+    "neighborhood_description": "Greenwich Village is a vibrant and historic neighborhood in downtown Manhattan. It is known for its trendy restaurants, boutique shops, and beautiful tree-lined streets. It is also home to several prestigious universities and a thriving arts scene."
+  },
+  {
+    "neighborhood": "Upper East Side",
+    "price": 2000000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 2000,
+    "house_description": "This stunning brownstone home features 3 spacious bedrooms, 2 modern bathrooms, and a large living area perfect for entertaining. The home also boasts a gourmet kitchen with high-end appliances and a beautiful backyard oasis.",
+    "neighborhood_description": "The Upper East Side is known for its upscale and luxurious atmosphere, with a variety of high-end restaurants, designer shops, and beautiful parks. It is a highly sought after neighborhood for those looking for a sophisticated and elegant lifestyle."
+  },
+  {
+    "neighborhood": "Brooklyn Heights",
+    "price": 1500000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 2000,
+    "house_description": "Beautiful brownstone with original details and modern updates",
+    "neighborhood_description": "Tree-lined streets, historic architecture, and vibrant community"
+  },
+  {
+    "neighborhood": "Upper East Side",
+    "price": 1500000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 1800,
+    "house_description": "This stunning 3 bedroom, 2 bathroom home is located in the prestigious Upper East Side neighborhood. The spacious layout boasts high ceilings, hardwood floors, and plenty of natural light.",
+    "neighborhood_description": "The Upper East Side is known for its luxurious residential buildings, high-end shopping, and top-rated restaurants. It is also home to world-renowned museums and Central Park."
+  },
+  {
+    "neighborhood": "Greenwich Village",
+    "price": 1500000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "size": 1200,
+    "house_description": "This beautiful brownstone home is located in the heart of Greenwich Village. It features large windows that let in plenty of natural light, hardwood floors, and a cozy fireplace in the living room.",
+    "neighborhood_description": "Greenwich Village is known for its charming tree-lined streets, trendy restaurants, and vibrant nightlife. It is also home to many historic landmarks, such as Washington Square Park and the Stonewall Inn."
+  },
+  {
+    "neighborhood": "Park Slope",
+    "price": 1200000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 2000,
+    "house_description": "This charming brownstone is located in the highly sought after neighborhood of Park Slope. It features original hardwood floors, high ceilings, and a spacious backyard perfect for entertaining.",
+    "neighborhood_description": "Park Slope is known for its tree-lined streets, beautiful brownstones, and lively atmosphere. It is home to numerous restaurants, cafes, and parks, making it a desirable location for families and young professionals alike."
+  },
+  {
+    "neighborhood": "West Hollywood",
+    "price": 1500000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size": 2000,
+    "house_description": "Beautiful Spanish-style home with modern amenities. Spacious living room and kitchen with high ceilings and lots of natural light. Large backyard with pool and patio area, perfect for entertaining.",
+    "neighborhood_description": "West Hollywood is a trendy and vibrant neighborhood known for its lively nightlife, upscale shopping, and diverse dining options. It is also home to many celebrities and offers a great sense of community."
+  }
+]
